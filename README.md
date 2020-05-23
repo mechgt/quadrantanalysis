@@ -1,6 +1,8 @@
 # Quadrant Analysis
 Quadrant Analysis plugin for SportTracks (Desktop)
 
+Quadrant Analysis is a plugin to extend the sports anaylysis software SportTracks. Perform advanced analysis using data captured from personal fitness devices (such as heartrate and other).
+
 Analyze composition of a power track.  Power (and cadence) is broken down into components and plotted on a scatter plot.  Use this data to help target your training for an upcoming race.
 
 This software was open-sourced after SportTracks desktop was discontinued, and all restrictions have been removed.
